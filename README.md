@@ -1,2 +1,2 @@
 # [WIP] Current Error:
-![alt text](https://github.com/itsmedigio/alderlake-mobile-hackintosh-opencore-efi/error.png)
+![Error](https://raw.githubusercontent.com/itsmedigio/alderlake-mobile-hackintosh-opencore-efi/main/error.png)
